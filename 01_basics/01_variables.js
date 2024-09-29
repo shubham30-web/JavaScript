@@ -13,3 +13,4 @@ accountPassword="1@Shubham"
 //console.log(accountEmail);
 //console.log(accountCity);
 console.table([accountId, accountEmail, accountPassword,accountCity, accountState])
+alert("bhag")
